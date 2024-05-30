@@ -1,4 +1,4 @@
-![](coding_room_at_night.gif)
+<img src="coding_room_at_night.gif" alt="image" width="100%" height="auto">
 
 ## Hi there 👋
 
