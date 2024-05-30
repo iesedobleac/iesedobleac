@@ -10,12 +10,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/iesedobleac">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iesedobleac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iesedobleac&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div>
+    <a href="https://github.com/iesedobleac" style="width: 50%;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iesedobleac&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
+
 
 <!--
 **iesedobleac/iesedobleac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
