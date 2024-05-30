@@ -1,3 +1,5 @@
+![](coding_room_at_night.gif)
+
 ## Hi there 👋
 
 <!--
