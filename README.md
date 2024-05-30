@@ -39,8 +39,7 @@
 <p>
 <br>
 <a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.roundify" target="_blank">
-<img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue
-">
+<img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue">
 </a>
 </p>
 <p>Roundify es perfecta para las personas que disfrutan de <strong>participar en juegos de equipo</strong>. Diseñada para facilitar la <strong>organización y gestión de los juegos de equipo.</strong></p>
@@ -56,8 +55,7 @@
 <p>
 <br>
 <a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.recetasmonsieurcuisineconnect" target="_blank">
-<img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue
-">
+<img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue">
 </a>
 </p>
 </p>Con la aplicación de Recetas de Monsieur Cuisine <strong>podrás buscar y encontrar recetas</strong> para el robot de cocina más popular del momento y <strong>de manera totalmente gratis.</strong></p>
@@ -75,8 +73,7 @@
 <p>
 <br>
 <a href="https://play.google.com/store/apps/details?id=com.isaac.passwordgenerator" target="_blank">
-<img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue
-">
+<img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue">
 </a>
 </p>
 <p>Password Generator es una aplicación con la que <strong>podrás generar contraseñas seguras</strong> para usar en tus aplicaciones o cuentas que necesites tener protegidas. </p>
@@ -91,8 +88,7 @@
 <p>
 <br>
 <a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.vocabulearn" target="_blank">
-<img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue
-">
+<img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue">
 </a>
 </p>
 <p>Está diseñada para hacer que <strong>aprender inglés</strong> sea una experiencia emocionante y efectiva. Con categorías temáticas, <strong>cada una repleta de vocabulario esencial.</strong></p>
