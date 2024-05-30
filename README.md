@@ -1,6 +1,6 @@
 <img src="/images/header/coding_room_at_night.gif" alt="image" width="100%" height="auto">
 
-<h1 align="center">Hola 👋, soy Isaac de los Reyes</h1>
+<h1 align="center">Hola 👋, soy Isaac</h1>
 
 <div align="center">
     <a href="https://github.com/iesedobleac"><img src="https://komarev.com/ghpvc/?username=iesedobleac&color=blue&label=Visitas+a+mi+perfil&abbreviated=true&style=flat" alt="Visit counters"></a>
