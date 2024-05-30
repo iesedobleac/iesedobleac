@@ -8,6 +8,26 @@
     <a href="https://twitter.com/iesedobleac"><img src="https://img.shields.io/twitter/follow/iesedobleac?style=flat&logo=x&label=S%C3%ADgueme%20en%20X&color=blue" alt="X Follow"></a>
 </div>
 
+### 🚀 &nbsp;Algo acerca de mi
+
+
+- 📱 Desarrollador móvil **especializado en Android**
+- ☀️ Trabajo desde Sevilla, a pesar de **la calor**
+- 💬 Puedes preguntarme acerca de **Android**
+- 📫 Contacta conmigo en **isaacdelosredi@gmail.com**
+
+&nbsp;
+
+### 👨🏽‍💻 Mis lenguajes y herramientas
+
+<p align="left"> 
+
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
+
+</p>
+
+&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div>
@@ -15,19 +35,3 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iesedobleac&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
     </a>
 </div>
-
-
-<!--
-**iesedobleac/iesedobleac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
