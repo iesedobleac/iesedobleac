@@ -9,12 +9,11 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/iesedobleac">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iesedobleac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iesedobleac&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+    <a href="https://github.com/iesedobleac">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iesedobleac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iesedobleac&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
 </p>
-
 
 <!--
 **iesedobleac/iesedobleac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
