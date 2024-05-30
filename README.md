@@ -8,7 +8,7 @@
     <a href="https://twitter.com/iesedobleac"><img src="https://img.shields.io/twitter/follow/iesedobleac?style=social&logo=x&label=S%C3%ADgueme%20en%20X&color=blue" alt="X Follow"></a>
 </div>
 
-### 🚀 &nbsp;Algo acerca de mi
+## 🚀 &nbsp;Algo acerca de mi
 
 
 - 📱 Desarrollador móvil **especializado en Android**
@@ -18,7 +18,7 @@
 
 &nbsp;
 
-### 👨🏽‍💻 Mis lenguajes y herramientas
+## 👨🏽‍💻 Mis lenguajes y herramientas
 
 <p align="left"> 
 
@@ -93,7 +93,7 @@
 
 &nbsp;
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <div>
     <a href="https://github.com/iesedobleac" style="width: 50%;">
