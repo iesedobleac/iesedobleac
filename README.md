@@ -36,15 +36,10 @@
 <h3 align="center">Roundify</h3>
 <div align="center">
 <a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.roundify" target="_blank"><img src="/images/apps/roundify.png" width="400" alt="Roundify" />
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="display: flex; align-items: center;">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="16" height="16"/>
-        <img src="https://blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png" alt="firebase" width="25" height="25" />
-    </div>
-    <a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.roundify" target="_blank">
-        <img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue">
-    </a>
-</div>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="16" height="16"/>
+<img src="https://webimages.mongodb.com/_com_assets/cms/l395ywxd0l5h0ibu9-Technology-logo-jetpackcompose.svg?auto=format%252Ccompress" alt="firebase" width="18" height="18" />
+<a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.roundify" target="_blank"> <img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue"></a>
+<br>
 <br>
 <p>Roundify es perfecta para las personas que disfrutan de <strong>participar en juegos de equipo</strong>. Diseñada para facilitar la <strong>organización y gestión de los juegos de equipo.</strong></p>
 </div>                                                                                    
@@ -54,14 +49,10 @@
 <h3 align="center">Recetas Monsieur Cuisine</h3>
 <div align="center">                                       
 <a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.recetasmonsieurcuisineconnect" target="_blank"><img src="/images/apps/recetas.png" width="400" alt="Recetas Monsieur Cuisine"></a>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="display: flex; align-items: center;">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="16" height="16"/>
-    </div>
-    <a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.recetasmonsieurcuisineconnect" target="_blank">
-        <img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue">
-    </a>
-</div>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="16" height="16"/>
+<img src="https://webimages.mongodb.com/_com_assets/cms/l395ywxd0l5h0ibu9-Technology-logo-jetpackcompose.svg?auto=format%252Ccompress" alt="firebase" width="18" height="18" />
+<a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.recetasmonsieurcuisineconnect" target="_blank"> <img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue"></a>
+<br>
 <br>
 <p>Con la aplicación de Recetas de Monsieur Cuisine <strong>podrás buscar y encontrar recetas</strong> para el robot de cocina más popular del momento y <strong>de manera totalmente gratis.</strong></p>
 </div>                                                             
@@ -74,14 +65,10 @@
 <h3 align="center">Password Generator</h3>
 <div align="center">
 <a href="https://play.google.com/store/apps/details?id=com.isaac.passwordgenerator" target="_blank"><img src="/images/apps/passwords.png" width="400" alt="Password Generator"></a>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="display: flex; align-items: center;">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="16" height="16"/>
-    </div>
-    <a href="https://play.google.com/store/apps/details?id=com.isaac.passwordgenerator" target="_blank">
-        <img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue">
-    </a>
-</div>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="16" height="16"/>
+<img src="https://webimages.mongodb.com/_com_assets/cms/l395ywxd0l5h0ibu9-Technology-logo-jetpackcompose.svg?auto=format%252Ccompress" alt="firebase" width="18" height="18" />
+<a href="https://play.google.com/store/apps/details?id=com.isaac.passwordgenerator" target="_blank"> <img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue"></a>
+<br>
 <br>
 <p>Password Generator es una aplicación con la que <strong>podrás generar contraseñas seguras</strong> para usar en tus aplicaciones o cuentas que necesites tener protegidas. </p>
 </div>
@@ -89,18 +76,14 @@
 </td>       
 
 <td width="50%">
+
 <h3 align="center">Vocabulearn</h3>
 <div align="center">
-<a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.vocabulearn" target="_blank"><img src="/images/apps/vocabulearn.png" width="400" alt="Vocabulearn"></a>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="display: flex; align-items: center;">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="16" height="16"/>
-        <img src="https://blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png" alt="firebase" width="25" height="25" />
-    </div>
-    <a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.vocabulearn" target="_blank">
-        <img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue">
-    </a>
-</div>
+<a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.vocabulearn" target="_blank"><img src="/images/apps/vocabulearn.png" width="400" alt="Vocabulearn" />
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="16" height="16"/>
+<img src="https://webimages.mongodb.com/_com_assets/cms/l395ywxd0l5h0ibu9-Technology-logo-jetpackcompose.svg?auto=format%252Ccompress" alt="firebase" width="18" height="18" />
+<a href="https://play.google.com/store/apps/details?id=com.isaacdelosreyes.vocabulearn" target="_blank"> <img src="https://img.shields.io/badge/Enlace%20a%20Google%20Play-passing?style=flat&logo=google-play&color=blue"></a>
+<br>
 <br>
 <p>Está diseñada para hacer que <strong>aprender inglés</strong> sea una experiencia emocionante y efectiva. Con categorías temáticas, <strong>cada una repleta de vocabulario esencial.</strong></p>
 </div>
