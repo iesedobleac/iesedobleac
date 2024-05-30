@@ -93,7 +93,7 @@
 
 &nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <div>
     <a href="https://github.com/iesedobleac" style="width: 50%;">
