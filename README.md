@@ -8,12 +8,14 @@
     <a href="https://twitter.com/iesedobleac"><img src="https://img.shields.io/twitter/follow/iesedobleac?style=flat&logo=x&label=S%C3%ADgueme%20en%20X&color=blue" alt="X Follow"></a>
 </div>
 
-<p align="center">
+<div align="center">
     <a href="https://github.com/iesedobleac">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iesedobleac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/iesedobleac">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iesedobleac&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-</p>
+</div>
 
 <!--
 **iesedobleac/iesedobleac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
